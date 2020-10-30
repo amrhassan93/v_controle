@@ -26,4 +26,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[img Test](https://github.com/amrhassan93/v_controle/blob/master/imgs/tst.jpg)
+![](https://github.com/amrhassan93/v_controle/blob/master/imgs/tst.jpg)
