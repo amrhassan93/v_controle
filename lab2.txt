@@ -10,4 +10,8 @@ git push origin master
 3. git branch test
 	git branch dev
 
-
+4. git checkout dev 
+	git add .
+	git commit -m 'My commit'
+	git push origin dev
+5. 
