@@ -14,4 +14,14 @@ git push origin master
 	git add .
 	git commit -m 'My commit'
 	git push origin dev
-5. 
+5. git checkout master 
+	git merge dev
+	
+6. To delete a remote branch
+git push origin :newbranch
+
+To delete a local branch
+git branch -d newbranch for uncommited files 
+git branch -D newbranch for commited files
+
+
